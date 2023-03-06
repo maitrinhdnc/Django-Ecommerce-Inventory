@@ -20,3 +20,5 @@
 13. Selenium require browser
 14. Create admin info in database at fixture
 15. pytest.ini -> tests | fi*xtures and selenium -> test_*.py
+16. from django.contrib.auth.hashers import make_password
+make_password('admin') => get hash string
