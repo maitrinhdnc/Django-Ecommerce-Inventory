@@ -1,2 +1,2 @@
 # Django-Ecommerce-Inventory
-Django, Test, PostgreSQL
+Django, PyTest, PostgreSQL
